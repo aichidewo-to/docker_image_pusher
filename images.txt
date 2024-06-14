@@ -1,1 +1,1 @@
-docker.io/dreamacro/clash:latest
+docker.io/haishanh/yacd
